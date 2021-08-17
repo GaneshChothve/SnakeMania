@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color:  #191919;
+    background-color:  #8db473;
 }
 
 .body{
@@ -39,10 +39,10 @@ body {
 }
 
 #board{
-    background: linear-gradient(#393939, #233323);
+    background: linear-gradient(#3873aa, #54959e);
     width: 80vmin;
     height: 82vmin;
-    border: 2px solid black;
+    border: 5px solid red;
     display: grid;
     grid-template-rows: repeat(18, 1fr);
     grid-template-columns: repeat(18, 1fr);
